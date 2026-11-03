@@ -1,0 +1,287 @@
+[
+  {
+    "tipo": "generico",
+    "monitoradosEncontro": [
+      37,
+      48
+    ],
+    "timestamp": "2024-01-01 01:05:05",
+    "posicoes": {
+      "37": {
+        "lat": -10.9585,
+        "lon": -49.74688
+      },
+      "48": {
+        "lat": -10.95842,
+        "lon": -49.74692
+      }
+    },
+    "distanciaMetros": 9.90957111809784
+  },
+  {
+    "tipo": "faccao",
+    "monitoradosEncontro": [
+      49,
+      50
+    ],
+    "timestamp": "2024-01-01 01:19:45",
+    "posicoes": {
+      "49": {
+        "lat": -3.09805,
+        "lon": -69.94813
+      },
+      "50": {
+        "lat": -3.09813,
+        "lon": -69.94808
+      }
+    },
+    "distanciaMetros": 10.485804039506823
+  },
+  {
+    "tipo": "generico",
+    "monitoradosEncontro": [
+      31,
+      43
+    ],
+    "timestamp": "2024-01-01 02:03:15",
+    "posicoes": {
+      "31": {
+        "lat": -18.80665,
+        "lon": -41.26235
+      },
+      "43": {
+        "lat": -18.80666,
+        "lon": -41.26225
+      }
+    },
+    "distanciaMetros": 10.584413373886989
+  },
+  {
+    "tipo": "generico",
+    "monitoradosEncontro": [
+      12,
+      42
+    ],
+    "timestamp": "2024-01-01 02:20:05",
+    "posicoes": {
+      "12": {
+        "lat": -24.42753,
+        "lon": -54.74827
+      },
+      "42": {
+        "lat": -24.42755,
+        "lon": -54.74836
+      }
+    },
+    "distanciaMetros": 9.379186039299068
+  },
+  {
+    "tipo": "generico",
+    "monitoradosEncontro": [
+      11,
+      56
+    ],
+    "timestamp": "2024-01-01 02:44:25",
+    "posicoes": {
+      "11": {
+        "lat": -27.16895,
+        "lon": -61.5787
+      },
+      "56": {
+        "lat": -27.16903,
+        "lon": -61.57869
+      }
+    },
+    "distanciaMetros": 8.95043194151789
+  },
+  {
+    "tipo": "faccao",
+    "monitoradosEncontro": [
+      13,
+      15
+    ],
+    "timestamp": "2024-01-01 02:53:55",
+    "posicoes": {
+      "13": {
+        "lat": -25.64088,
+        "lon": -52.14046
+      },
+      "15": {
+        "lat": -25.6408,
+        "lon": -52.14043
+      }
+    },
+    "distanciaMetros": 9.390193621744167
+  },
+  {
+    "tipo": "generico",
+    "monitoradosEncontro": [
+      29,
+      36
+    ],
+    "timestamp": "2024-01-01 04:22:10",
+    "posicoes": {
+      "29": {
+        "lat": -14.73056,
+        "lon": -50.20311
+      },
+      "36": {
+        "lat": -14.73048,
+        "lon": -50.20303
+      }
+    },
+    "distanciaMetros": 12.3752555456295
+  },
+  {
+    "tipo": "protetiva",
+    "monitoradosEncontro": [
+      4,
+      5
+    ],
+    "timestamp": "2024-01-01 04:58:20",
+    "posicoes": {
+      "4": {
+        "lat": -30.27597,
+        "lon": -57.72789
+      },
+      "5": {
+        "lat": -30.27589,
+        "lon": -57.7279
+      }
+    },
+    "distanciaMetros": 8.947275971744366
+  },
+  {
+    "tipo": "protetiva",
+    "monitoradosEncontro": [
+      1,
+      35
+    ],
+    "timestamp": "2024-01-01 05:26:35",
+    "posicoes": {
+      "1": {
+        "lat": -29.44372,
+        "lon": -71.74709
+      },
+      "35": {
+        "lat": -29.44378,
+        "lon": -71.7472
+      }
+    },
+    "distanciaMetros": 12.568547435154343
+  },
+  {
+    "tipo": "faccao",
+    "monitoradosEncontro": [
+      47,
+      54
+    ],
+    "timestamp": "2024-01-01 06:01:10",
+    "posicoes": {
+      "47": {
+        "lat": -5.61486,
+        "lon": -41.42829
+      },
+      "54": {
+        "lat": -5.61495,
+        "lon": -41.42835
+      }
+    },
+    "distanciaMetros": 12.009843357409622
+  },
+  {
+    "tipo": "faccao",
+    "monitoradosEncontro": [
+      19,
+      25
+    ],
+    "timestamp": "2024-01-01 06:01:20",
+    "posicoes": {
+      "19": {
+        "lat": -19.61151,
+        "lon": -62.73817
+      },
+      "25": {
+        "lat": -19.61155,
+        "lon": -62.73827
+      }
+    },
+    "distanciaMetros": 11.37967502493859
+  },
+  {
+    "tipo": "faccao",
+    "monitoradosEncontro": [
+      51,
+      52
+    ],
+    "timestamp": "2024-01-01 06:19:10",
+    "posicoes": {
+      "51": {
+        "lat": -3.5721,
+        "lon": -59.98089
+      },
+      "52": {
+        "lat": -3.57201,
+        "lon": -59.98089
+      }
+    },
+    "distanciaMetros": 10.007543397977084
+  },
+  {
+    "tipo": "generico",
+    "monitoradosEncontro": [
+      14,
+      26
+    ],
+    "timestamp": "2024-01-01 07:16:40",
+    "posicoes": {
+      "14": {
+        "lat": -26.38803,
+        "lon": -47.57057
+      },
+      "26": {
+        "lat": -26.38802,
+        "lon": -47.57045
+      }
+    },
+    "distanciaMetros": 12.004680970729677
+  },
+  {
+    "tipo": "protetiva",
+    "monitoradosEncontro": [
+      2,
+      38
+    ],
+    "timestamp": "2024-01-01 07:23:40",
+    "posicoes": {
+      "2": {
+        "lat": -32.10152,
+        "lon": -66.69814
+      },
+      "38": {
+        "lat": -32.10144,
+        "lon": -66.69818
+      }
+    },
+    "distanciaMetros": 9.660623718777892
+  },
+  {
+    "tipo": "generico",
+    "monitoradosEncontro": [
+      3,
+      6
+    ],
+    "timestamp": "2024-01-01 08:41:00",
+    "posicoes": {
+      "3": {
+        "lat": -32.70574,
+        "lon": -62.88103
+      },
+      "6": {
+        "lat": -32.70566,
+        "lon": -62.88095
+      }
+    },
+    "distanciaMetros": 11.625864089876893
+  }
+]

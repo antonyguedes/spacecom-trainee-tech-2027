@@ -1,0 +1,9 @@
+# Datasets
+dataset*.txt
+
+# Dependências
+node_modules/
+
+# Logs e arquivos do sistema
+*.log
+.DS_Store

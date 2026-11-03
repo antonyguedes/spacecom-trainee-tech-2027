@@ -1,0 +1,116 @@
+[
+  {
+    "tipo": "faccao",
+    "monitoradosEncontro": [
+      10,
+      11
+    ],
+    "timestamp": "2024-01-01 00:02:05",
+    "posicoes": {
+      "10": {
+        "lat": -14.62732,
+        "lon": -36.31859
+      },
+      "11": {
+        "lat": -14.62731,
+        "lon": -36.31869
+      }
+    },
+    "distanciaMetros": 10.81640474094182
+  },
+  {
+    "tipo": "protetiva",
+    "monitoradosEncontro": [
+      12,
+      13
+    ],
+    "timestamp": "2024-01-01 00:29:50",
+    "posicoes": {
+      "12": {
+        "lat": -7.33193,
+        "lon": -65.9313
+      },
+      "13": {
+        "lat": -7.33197,
+        "lon": -65.93137
+      }
+    },
+    "distanciaMetros": 8.909619516337239
+  },
+  {
+    "tipo": "generico",
+    "monitoradosEncontro": [
+      3,
+      19
+    ],
+    "timestamp": "2024-01-01 00:35:55",
+    "posicoes": {
+      "3": {
+        "lat": -25.99892,
+        "lon": -56.96696
+      },
+      "19": {
+        "lat": -25.99883,
+        "lon": -56.96694
+      }
+    },
+    "distanciaMetros": 10.205209934010645
+  },
+  {
+    "tipo": "generico",
+    "monitoradosEncontro": [
+      6,
+      7
+    ],
+    "timestamp": "2024-01-01 00:43:35",
+    "posicoes": {
+      "6": {
+        "lat": -15.03744,
+        "lon": -73.42167
+      },
+      "7": {
+        "lat": -15.03739,
+        "lon": -73.42174
+      }
+    },
+    "distanciaMetros": 9.349741643529189
+  },
+  {
+    "tipo": "generico",
+    "monitoradosEncontro": [
+      4,
+      5
+    ],
+    "timestamp": "2024-01-01 01:26:30",
+    "posicoes": {
+      "4": {
+        "lat": -29.13547,
+        "lon": -43.25292
+      },
+      "5": {
+        "lat": -29.13546,
+        "lon": -43.25301
+      }
+    },
+    "distanciaMetros": 8.811738897421028
+  },
+  {
+    "tipo": "faccao",
+    "monitoradosEncontro": [
+      8,
+      9
+    ],
+    "timestamp": "2024-01-01 01:43:00",
+    "posicoes": {
+      "8": {
+        "lat": -14.77075,
+        "lon": -55.87742
+      },
+      "9": {
+        "lat": -14.77068,
+        "lon": -55.87738
+      }
+    },
+    "distanciaMetros": 8.892813491126276
+  }
+]
